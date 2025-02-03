@@ -1,4 +1,5 @@
 # Appointment Scheduler
+![image](https://github.com/user-attachments/assets/59052076-787e-4a66-a1ed-608488e6f3c0)
 
 The **Appointment Scheduler** is a Windows Forms application developed as part of a school project. Written in C# for a fictional global consulting organization, this tool helps employees manage appointments with customers. The application features login authentication, customer and appointment management, and calendar views. 
 
